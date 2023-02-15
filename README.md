@@ -7,8 +7,9 @@ York City. I enjoy writing software, crafting thoughtful user
 experiences, and helping start-ups and companies leverage technology in
 innovative ways.
 
-I'm currently looking for new engineering roles, especially anything
-with **Rails** and/or **Rust**. Feel free to reach out about new opportunities!
+Feel free to reach out about software engineering consulting opportunities. I
+specialize in optimizing Rails/Ruby applications, mar-tech integrations, and
+database and data pipeline performance problems. 
 
 - 📧 [mjc@hey.com](mailto:mjc@hey.com)
 - 🌐 [michaeljcoyne.me](https://michaeljcoyne.me/?utm_source=github&utm_medium=readme&utm_campaign=link)
