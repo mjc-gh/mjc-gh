@@ -15,4 +15,4 @@ Feel free to reach out about software engineering consulting opportunities!
 
 ### GitHub Stats
 
-![GitHub stats](https://github-readme-stats-seven-delta-84.vercel.app/api?username=mjc-gh&include_all_commits=true&theme=synthwave)]
+![GitHub stats](https://github-readme-stats-seven-delta-84.vercel.app/api?username=mjc-gh&include_all_commits=true&theme=synthwave)
